@@ -10,8 +10,12 @@ I am a B.Tech Computer Science student passionate about Data Analysis and Web De
 - CSS
 - Python Basics
 - MS Excel
+- MS Word
 - Data Analysis
 - Problem Solving
+- Basic Computer Science concepts
+- Basic JavaScript
+- WordPress
 
 ### Projects
 1. Student Result Analysis using Excel
